@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barisgundem
 - 👀 I’m interested in new technologies.
-- 🌱 I’m currently learning rust and js.
+- 🌱 I’m currently learning js and cloud computing.
 - 📫 How to reach me (https://www.linkedin.com/in/barisgundem/)
 
 <!---
