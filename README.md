@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @barisgundem
-- 👀 I’m interested in new technologies.
-- 🌱 I’m currently learning spring boot and cloud computing.
+- 👀 I’m interested in mobile application development.
 - 📫 How to reach me (https://www.linkedin.com/in/barisgundem/)
 
 <!---
