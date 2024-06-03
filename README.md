@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @barisgundem
-- 👀 I’m interested in mobile application development.
+
 - 📫 How to reach me (https://www.linkedin.com/in/barisgundem/)
 
 <!---
